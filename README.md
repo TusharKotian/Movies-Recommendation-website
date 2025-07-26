@@ -1,5 +1,7 @@
 # 🎬 Movie Recommender System
 ![Movie Recommender Screenshot](https://github.com/TusharKotian/Movies-Recommendation-website/blob/main/Screenshot%202025-07-17%20103519.png?raw=true)
+![Movie Recommender UI Screenshot](https://github.com/TusharKotian/Movies-Recommendation-website/blob/main/Screenshot%202025-07-17%20103728.png?raw=true)
+
 This is a **Content-Based Movie Recommendation System** built using Python, Pandas, Scikit-learn, and Streamlit (or Flask) for the web interface. It suggests similar movies based on user-selected titles using cosine similarity on feature vectors.
 
 ---
